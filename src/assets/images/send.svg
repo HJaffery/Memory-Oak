@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="125" height="125" viewBox="0 0 125 125">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d06eff"/>
+      <stop offset="1" stop-color="#c461f3"/>
+    </linearGradient>
+    <filter id="Rectangle_28" x="0" y="0" width="125" height="125" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur"/>
+      <feFlood flood-color="#ae58d7" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="send" transform="translate(-262 -536)">
+    <g transform="matrix(1, 0, 0, 1, 262, 536)" filter="url(#Rectangle_28)">
+      <rect id="Rectangle_28-2" data-name="Rectangle 28" width="35" height="35" rx="17.5" transform="translate(45 42)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="paper-plane" transform="translate(317 588.001)">
+      <path id="Path_52" data-name="Path 52" d="M12.5,12.194a.468.468,0,0,1-.148-.024L.31,8.054a.458.458,0,0,1-.065-.838L13.963.052a.458.458,0,0,1,.665.473L12.951,11.8a.458.458,0,0,1-.452.39ZM1.613,7.533l10.513,3.594,1.464-9.848Z" transform="translate(0 -0.001)" fill="#fff"/>
+      <path id="Path_53" data-name="Path 53" d="M9.207,14.023a.457.457,0,0,1-.457-.457V9.45a.46.46,0,0,1,.123-.312L17.256.145a.458.458,0,0,1,.669.624L9.665,9.63v2.541l1.526-2.077a.457.457,0,0,1,.737.542l-2.352,3.2a.46.46,0,0,1-.369.186Z" transform="translate(-3.415 0)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

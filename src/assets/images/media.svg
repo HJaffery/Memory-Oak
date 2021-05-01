@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17.18" height="15.391" viewBox="0 0 17.18 15.391">
+  <g id="media" transform="translate(0.15 -20.05)">
+    <g id="Group_29" data-name="Group 29" transform="translate(0 20.2)">
+      <g id="Group_28" data-name="Group 28" transform="translate(0 0)">
+        <path id="Path_47" data-name="Path 47" d="M15.3,20.2H1.576A1.58,1.58,0,0,0,0,21.776V33.715a1.58,1.58,0,0,0,1.576,1.576H15.3a1.58,1.58,0,0,0,1.576-1.576V21.776A1.58,1.58,0,0,0,15.3,20.2Zm.779,13.515a.79.79,0,0,1-.8.779H1.576a.794.794,0,0,1-.8-.8V30.509l4.446-4.535L9.246,30.6a.408.408,0,0,0,.531.071l3.259-2.3,3.047,2.2Zm.018-4.109-2.834-2.037a.372.372,0,0,0-.461,0L9.618,29.836,5.544,25.16a.437.437,0,0,0-.283-.142.415.415,0,0,0-.3.124L.779,29.393V21.776a.79.79,0,0,1,.8-.779H15.3a.794.794,0,0,1,.8.8Z" transform="translate(0 -20.2)" fill="#c5c5c5" stroke="#c5c5c5" stroke-width="0.3"/>
+      </g>
+    </g>
+    <g id="Group_31" data-name="Group 31" transform="translate(8.803 22.556)">
+      <g id="Group_30" data-name="Group 30" transform="translate(0 0)">
+        <path id="Path_48" data-name="Path 48" d="M200.832,73.4a2.037,2.037,0,1,0,2.037,2.037A2.037,2.037,0,0,0,200.832,73.4Zm0,3.295a1.258,1.258,0,1,1,1.258-1.258A1.262,1.262,0,0,1,200.832,76.695Z" transform="translate(-198.794 -73.4)" fill="#c5c5c5" stroke="#c5c5c5" stroke-width="0.3"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="121" height="121" viewBox="0 0 121 121">
+  <defs>
+    <filter id="Ellipse_3" x="0" y="0" width="121" height="121" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="12.5" result="blur"/>
+      <feFlood flood-color="#1f1f1f" flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="apple" transform="translate(-155.5 -671.5)">
+    <g transform="matrix(1, 0, 0, 1, 155.5, 671.5)" filter="url(#Ellipse_3)">
+      <g id="Ellipse_3-2" data-name="Ellipse 3" transform="translate(37.5 34.5)" fill="#fff" stroke="#919191" stroke-width="0.2">
+        <circle cx="23" cy="23" r="23" stroke="none"/>
+        <circle cx="23" cy="23" r="22.9" fill="none"/>
+      </g>
+    </g>
+    <g id="mac-os-logo" transform="translate(207.718 720)">
+      <g id="Group_3" data-name="Group 3" transform="translate(1.282)">
+        <path id="Path_3" data-name="Path 3" d="M12.871,8.273a3.854,3.854,0,0,1,1.84-3.245,3.977,3.977,0,0,0-3.116-1.687c-1.325-.136-2.588.78-3.262.78S6.621,3.36,5.521,3.38A4.174,4.174,0,0,0,2,5.516c-1.5,2.608-.385,6.47,1.079,8.587.716,1.035,1.571,2.2,2.69,2.156,1.079-.043,1.487-.7,2.792-.7s1.672.7,2.813.678c1.162-.022,1.9-1.056,2.606-2.093a9.483,9.483,0,0,0,1.182-2.424A3.771,3.771,0,0,1,12.871,8.273Z" transform="translate(-1.282 0.781)" fill="#565656"/>
+        <path id="Path_4" data-name="Path 4" d="M9.414,2.721A3.755,3.755,0,0,0,10.3,0a3.815,3.815,0,0,0-2.51,1.29,3.572,3.572,0,0,0-.9,2.636A3.159,3.159,0,0,0,9.414,2.721Z" transform="translate(0.029)" fill="#565656"/>
+      </g>
+    </g>
+  </g>
+</svg>
